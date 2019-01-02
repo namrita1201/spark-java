@@ -1,4 +1,4 @@
-package com.spark.rdd;
+package com.spark.rdd.transformations;
 
 import java.util.Arrays;
 import java.util.Map;
@@ -10,7 +10,7 @@ import org.apache.spark.api.java.JavaRDD;
 import org.apache.spark.api.java.JavaSparkContext;
 
 public class WordCount {
-  public static void main(String[] args) throws Exception {
+  public static void main(String[] args) {
 
     Logger.getLogger("org").setLevel(Level.ERROR);
     SparkConf conf = new SparkConf().setAppName("wordCounts").setMaster("local[2]");
