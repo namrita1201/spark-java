@@ -1,4 +1,4 @@
-package com.spark.pairRdd.aggregations.transformations;
+package com.spark.pairRdd.transformations;
 
 import java.util.Arrays;
 
