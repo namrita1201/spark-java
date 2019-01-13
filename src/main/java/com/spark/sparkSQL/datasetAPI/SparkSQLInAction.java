@@ -1,4 +1,4 @@
-package com.spark.sparkSQL;
+package com.spark.sparkSQL.datasetAPI;
 
 import static org.apache.spark.sql.functions.avg;
 import static org.apache.spark.sql.functions.col;
