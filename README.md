@@ -1,2 +1,2 @@
 # spark-java
-Project source code for to practise Apache Spark with Java.
+Project source code to practise Apache Spark with Java.
